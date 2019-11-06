@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">370197576267-dldenboedul8pu8pqi2ruc4imv2co90e.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://sistemascyberfisics.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">370197576267</string>
+    <string name="google_api_key" translatable="false">AIzaSyDLdr6Hhlb4xjsLr0WtmVkWs8MCXwQZNLs</string>
+    <string name="google_app_id" translatable="false">1:370197576267:android:a9a2798f57092bc47bebce</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDLdr6Hhlb4xjsLr0WtmVkWs8MCXwQZNLs</string>
+    <string name="google_storage_bucket" translatable="false">sistemascyberfisics.appspot.com</string>
+    <string name="project_id" translatable="false">sistemascyberfisics</string>
+</resources>

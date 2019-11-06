@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "370197576267",
+    "firebase_url": "https://sistemascyberfisics.firebaseio.com",
+    "project_id": "sistemascyberfisics",
+    "storage_bucket": "sistemascyberfisics.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370197576267:android:a9a2798f57092bc47bebce",
+        "android_client_info": {
+          "package_name": "com.salasdisponiveis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370197576267-dldenboedul8pu8pqi2ruc4imv2co90e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLdr6Hhlb4xjsLr0WtmVkWs8MCXwQZNLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370197576267-dldenboedul8pu8pqi2ruc4imv2co90e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
